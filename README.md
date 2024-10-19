@@ -8,7 +8,7 @@ The "Hello World" repository contains implementations of the classic "Hello, Wor
 
 Each file contains the "Hello, World!" program in a different programming language:
 
-1. `hello_world.bash`: Bash script implementation.
+1. `hello_world.bash`: Bash script.
 2. `hello_world.c`: C programming language.
 3. `hello_world.clj`: Clojure programming language.
 4. `hello_world.cpp`: C++ programming language.
